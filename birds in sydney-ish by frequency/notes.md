@@ -1,0 +1,2 @@
+- https://birdata.birdlife.org.au/explore#area_layer_id=3&from=2020-01-01&map=-33.8679339_151.2100050_8&visible_on_map=true
+- sorted by reporting rate
